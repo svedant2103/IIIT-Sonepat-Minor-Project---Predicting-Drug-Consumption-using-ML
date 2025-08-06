@@ -114,11 +114,11 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 🤖 ML Models Implemented
 Model	Accuracy
-Logistic Regression	93%
-Random Forest	      92%
-Decision Tree     	91%
-Naive Bayes	        88%
-K-Nearest Neighbors	86%
+Logistic Regression      	    93%
+Random Forest	                92%
+Decision Tree     	          91%
+Naive Bayes	                  88%
+K-Nearest Neighbors	          86%
 
 
 ✅ Logistic Regression
