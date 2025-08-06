@@ -1,4 +1,4 @@
-# IIIT-Sonepat-Minor-Project---Predicting-Drug-Consumption-using-ML
+# IIIT-Sonepat-Minor-Project
 
 # 💊 Drug Consumption Prediction using Machine Learning
 
